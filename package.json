@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hyperflow-wms/hyperflow-job-executor"
+    "url": "https://github.com/krzysztofxkwiecien/hyperflow-job-executor"
   },
   "files": [
     "connector.js",
